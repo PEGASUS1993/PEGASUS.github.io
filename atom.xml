@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pegasus1993.github.io</id>
     <title>PEGASUS</title>
-    <updated>2021-02-24T00:46:18.670Z</updated>
+    <updated>2021-02-24T00:48:58.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pegasus1993.github.io"/>
     <link rel="self" href="https://pegasus1993.github.io/atom.xml"/>
-    <subtitle>凡尔赛人</subtitle>
+    <subtitle>反复接受自己只是个普通人.</subtitle>
     <logo>https://pegasus1993.github.io/images/avatar.png</logo>
     <icon>https://pegasus1993.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, PEGASUS</rights>
