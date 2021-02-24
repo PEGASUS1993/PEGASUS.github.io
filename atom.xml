@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pegasus1993.github.io</id>
     <title>PEGASUS</title>
-    <updated>2021-02-24T00:32:54.688Z</updated>
+    <updated>2021-02-24T00:38:52.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pegasus1993.github.io"/>
     <link rel="self" href="https://pegasus1993.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://pegasus1993.github.io/images/avatar.png</logo>
     <icon>https://pegasus1993.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, PEGASUS</rights>
+    <entry>
+        <title type="html"><![CDATA[国内大学历史沿革]]></title>
+        <id>https://pegasus1993.github.io/post/guo-nei-da-xue-li-shi-yan-ge/</id>
+        <link href="https://pegasus1993.github.io/post/guo-nei-da-xue-li-shi-yan-ge/">
+        </link>
+        <updated>2021-02-24T00:36:11.000Z</updated>
+        <content type="html"><![CDATA[<p>汇总了国内大学历史沿革，包含大陆，港澳台地区。具体信息来自院校官网，档案馆，校史馆。https://github.com/PEGASUS1993/History-Of-Domestic-Universities</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[坚持写博客真的不是件容易的事儿]]></title>
         <id>https://pegasus1993.github.io/post/jian-chi-xie-bo-ke-zhen-de-bu-shi-jian-rong-yi-de-shi-er/</id>
