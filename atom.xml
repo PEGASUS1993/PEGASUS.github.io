@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pegasus1993.github.io</id>
     <title>PEGASUS</title>
-    <updated>2021-02-24T00:04:22.750Z</updated>
+    <updated>2021-02-24T00:32:54.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pegasus1993.github.io"/>
     <link rel="self" href="https://pegasus1993.github.io/atom.xml"/>
@@ -17,6 +17,24 @@
         </link>
         <updated>2021-02-14T00:01:42.000Z</updated>
         <content type="html"><![CDATA[<p>坚持写博客真的不是件容易的事儿，佩服坚持更新，持续输出高质量的博客大佬们。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://pegasus1993.github.io/post/about/</id>
+        <link href="https://pegasus1993.github.io/post/about/">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！😀</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<p>正在学习如何使本站更加漂亮，内容实用，对大家有帮助</p>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<p>我是一枚2011年参加高考的菜鸡。本科EECS专业，硕士没考上。。。</p>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<p>DOTA2，篮球，数学，历史，地理，EECS，教育。</p>
+<h2 id="联系我呀">📬 联系我呀</h2>
 ]]></content>
     </entry>
     <entry>
