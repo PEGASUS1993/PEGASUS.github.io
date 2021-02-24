@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pegasus1993.github.io</id>
     <title>PEGASUS</title>
-    <updated>2021-02-23T23:59:39.865Z</updated>
+    <updated>2021-02-24T00:03:11.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pegasus1993.github.io"/>
     <link rel="self" href="https://pegasus1993.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://pegasus1993.github.io/images/avatar.png</logo>
     <icon>https://pegasus1993.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, PEGASUS</rights>
+    <entry>
+        <title type="html"><![CDATA[坚持写博客真的不是件容易的事儿]]></title>
+        <id>https://pegasus1993.github.io/post/jian-chi-xie-bo-ke-zhen-de-bu-shi-jian-rong-yi-de-shi-er/</id>
+        <link href="https://pegasus1993.github.io/post/jian-chi-xie-bo-ke-zhen-de-bu-shi-jian-rong-yi-de-shi-er/">
+        </link>
+        <updated>2021-02-14T00:01:42.000Z</updated>
+        <content type="html"><![CDATA[<p>坚持写博客真的不是件容易的事儿，佩服坚持更新，持续输出高质量的博客大佬们。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://pegasus1993.github.io/post/hello-gridea/</id>
